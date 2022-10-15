@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{34C85E22-AE05-40D7-8400-AF32C831592E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebAppAzure/Pages/Index.cshtml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAppAzure/Startup.cs">
     <Files>
       <File FileName="WebAppAzure/Properties/launchSettings.json" Line="1" Column="1" />
       <File FileName="WebAppAzure/Models/Product.cs" Line="5" Column="19" />
-      <File FileName="WebAppAzure/Services/ProductService.cs" Line="51" Column="29" />
-      <File FileName="WebAppAzure/Pages/Index.cshtml" Line="1" Column="1" />
-      <File FileName="WebAppAzure/Pages/Index.cshtml.cs" Line="19" Column="15" />
+      <File FileName="WebAppAzure/Services/ProductService.cs" Line="9" Column="25" />
+      <File FileName="WebAppAzure/Pages/Index.cshtml" Line="19" Column="17" />
+      <File FileName="WebAppAzure/Pages/Index.cshtml.cs" Line="21" Column="21" />
+      <File FileName="WebAppAzure/Startup.cs" Line="26" Column="22" />
+      <File FileName="WebAppAzure/Services/IProductService.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,10 +15,10 @@
           <Node name="WebAppAzure" expanded="True">
             <Node name="WebAppAzure" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Index.cshtml" expanded="True">
-                  <Node name="Index.cshtml.cs" selected="True" />
-                </Node>
+                <Node name="Index.cshtml" expanded="True" />
               </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>

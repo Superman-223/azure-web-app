@@ -1,11 +1,3 @@
-/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.csproj.AssemblyReference.cache
-/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.GeneratedMSBuildEditorConfig.editorconfig
-/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.AssemblyInfoInputs.cache
-/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.AssemblyInfo.cs
-/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.csproj.CoreCompileInputs.cache
-/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.MvcApplicationPartsAssemblyInfo.cache
-/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.RazorAssemblyInfo.cache
-/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.RazorAssemblyInfo.cs
 /Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/bin/Debug/netcoreapp3.1/WebAppAzure.deps.json
@@ -71,6 +63,13 @@
 /Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
 /Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
 /Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.AssemblyInfoInputs.cache
+/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.AssemblyInfo.cs
+/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.csproj.CoreCompileInputs.cache
+/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.MvcApplicationPartsAssemblyInfo.cache
+/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.RazorAssemblyInfo.cache
+/Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/WebAppAzure.RazorAssemblyInfo.cs
 /Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/staticwebassets/WebAppAzure.StaticWebAssets.Manifest.cache
 /Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/staticwebassets/WebAppAzure.StaticWebAssets.xml
 /Users/alybadarakeita/Projects/WebAppAzure/WebAppAzure/obj/Debug/netcoreapp3.1/scopedcss/bundle/WebAppAzure.styles.css

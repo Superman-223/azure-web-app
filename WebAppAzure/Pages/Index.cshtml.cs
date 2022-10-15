@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.Extensions.Logging;
 using WebAppAzure.Models;
 using WebAppAzure.Services;
 
@@ -12,13 +7,17 @@ namespace WebAppAzure.Pages
 {
     public class IndexModel : PageModel
     {
-
+        private readonly IProductService _proService;
         public List<Product> products;
+
+        public IndexModel(IProductService proService)
+        {
+            _proService = proService;
+        }
+
         public void OnGet()
         {
-            ProductService productService = new ProductService();
-
-            products = productService.GetProducts();
+            products = _proService.GetProducts();
         }
     }
 }
