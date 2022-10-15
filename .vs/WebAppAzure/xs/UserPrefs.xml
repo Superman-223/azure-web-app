@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{34C85E22-AE05-40D7-8400-AF32C831592E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAppAzure/Pages/Index.cshtml.cs">
+    <Files>
+      <File FileName="WebAppAzure/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="WebAppAzure/Models/Product.cs" Line="5" Column="19" />
+      <File FileName="WebAppAzure/Services/ProductService.cs" Line="51" Column="29" />
+      <File FileName="WebAppAzure/Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="WebAppAzure/Pages/Index.cshtml.cs" Line="19" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAppAzure" expanded="True">
+            <Node name="WebAppAzure" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True">
+                  <Node name="Index.cshtml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebAppAzure PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
